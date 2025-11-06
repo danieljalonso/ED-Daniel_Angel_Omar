@@ -5,7 +5,6 @@ public class Main {
 
         ProgramaSuma.main();
         ProgramaResta.main();
-
-       Multiplicacion.main();
+        Multiplicacion.main();
     }
 }
